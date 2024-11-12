@@ -132,5 +132,10 @@ namespace DotNetN2_MiniSup
         {
             this.Close();
         }
+
+        private void FrmKhachhang_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

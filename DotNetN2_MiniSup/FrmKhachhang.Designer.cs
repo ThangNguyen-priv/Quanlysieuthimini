@@ -30,6 +30,11 @@
         {
             this.label9 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.makh = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tenkh = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sdt = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.email = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.diachi = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btn_thoat = new System.Windows.Forms.Button();
             this.btn_timkiem = new System.Windows.Forms.Button();
             this.btn_sua = new System.Windows.Forms.Button();
@@ -47,11 +52,6 @@
             this.txt_diachi = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.txt_tk = new System.Windows.Forms.TextBox();
-            this.makh = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tenkh = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.sdt = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.email = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.diachi = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,7 +62,7 @@
             this.label9.Location = new System.Drawing.Point(397, 9);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(372, 35);
+            this.label9.Size = new System.Drawing.Size(394, 37);
             this.label9.TabIndex = 57;
             this.label9.Text = "THÔNG TIN KHÁCH HÀNG";
             // 
@@ -85,6 +85,41 @@
             this.dataGridView1.Size = new System.Drawing.Size(1183, 290);
             this.dataGridView1.TabIndex = 56;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            // 
+            // makh
+            // 
+            this.makh.DataPropertyName = "MaKhachHang";
+            this.makh.HeaderText = "MaKhachHang";
+            this.makh.MinimumWidth = 6;
+            this.makh.Name = "makh";
+            // 
+            // tenkh
+            // 
+            this.tenkh.DataPropertyName = "TenKhachHang";
+            this.tenkh.HeaderText = "TenKhachHang";
+            this.tenkh.MinimumWidth = 6;
+            this.tenkh.Name = "tenkh";
+            // 
+            // sdt
+            // 
+            this.sdt.DataPropertyName = "SoDienThoai";
+            this.sdt.HeaderText = "SoDienThoai";
+            this.sdt.MinimumWidth = 6;
+            this.sdt.Name = "sdt";
+            // 
+            // email
+            // 
+            this.email.DataPropertyName = "Email";
+            this.email.HeaderText = "Email";
+            this.email.MinimumWidth = 6;
+            this.email.Name = "email";
+            // 
+            // diachi
+            // 
+            this.diachi.DataPropertyName = "DiaChi";
+            this.diachi.HeaderText = "DiaChi";
+            this.diachi.MinimumWidth = 6;
+            this.diachi.Name = "diachi";
             // 
             // btn_thoat
             // 
@@ -152,7 +187,7 @@
             this.txt_email.Location = new System.Drawing.Point(196, 220);
             this.txt_email.Margin = new System.Windows.Forms.Padding(4);
             this.txt_email.Name = "txt_email";
-            this.txt_email.Size = new System.Drawing.Size(575, 29);
+            this.txt_email.Size = new System.Drawing.Size(575, 31);
             this.txt_email.TabIndex = 49;
             // 
             // txt_sdt
@@ -161,7 +196,7 @@
             this.txt_sdt.Location = new System.Drawing.Point(196, 170);
             this.txt_sdt.Margin = new System.Windows.Forms.Padding(4);
             this.txt_sdt.Name = "txt_sdt";
-            this.txt_sdt.Size = new System.Drawing.Size(575, 29);
+            this.txt_sdt.Size = new System.Drawing.Size(575, 31);
             this.txt_sdt.TabIndex = 48;
             // 
             // txt_tenkh
@@ -170,7 +205,7 @@
             this.txt_tenkh.Location = new System.Drawing.Point(196, 117);
             this.txt_tenkh.Margin = new System.Windows.Forms.Padding(4);
             this.txt_tenkh.Name = "txt_tenkh";
-            this.txt_tenkh.Size = new System.Drawing.Size(575, 29);
+            this.txt_tenkh.Size = new System.Drawing.Size(575, 31);
             this.txt_tenkh.TabIndex = 47;
             // 
             // txt_makh
@@ -179,7 +214,7 @@
             this.txt_makh.Location = new System.Drawing.Point(196, 67);
             this.txt_makh.Margin = new System.Windows.Forms.Padding(4);
             this.txt_makh.Name = "txt_makh";
-            this.txt_makh.Size = new System.Drawing.Size(575, 29);
+            this.txt_makh.Size = new System.Drawing.Size(575, 31);
             this.txt_makh.TabIndex = 46;
             // 
             // label4
@@ -189,7 +224,7 @@
             this.label4.Location = new System.Drawing.Point(23, 227);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(68, 22);
+            this.label4.Size = new System.Drawing.Size(74, 24);
             this.label4.TabIndex = 44;
             this.label4.Text = "Email :";
             // 
@@ -200,7 +235,7 @@
             this.label3.Location = new System.Drawing.Point(23, 173);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(126, 22);
+            this.label3.Size = new System.Drawing.Size(138, 24);
             this.label3.TabIndex = 43;
             this.label3.Text = "Số điện thoại :";
             // 
@@ -211,7 +246,7 @@
             this.label2.Location = new System.Drawing.Point(23, 117);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(152, 22);
+            this.label2.Size = new System.Drawing.Size(164, 24);
             this.label2.TabIndex = 42;
             this.label2.Text = "Tên khách hàng :";
             // 
@@ -222,7 +257,7 @@
             this.label1.Location = new System.Drawing.Point(23, 67);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 22);
+            this.label1.Size = new System.Drawing.Size(160, 24);
             this.label1.TabIndex = 41;
             this.label1.Text = "Mã khách hàng :";
             // 
@@ -233,7 +268,7 @@
             this.label5.Location = new System.Drawing.Point(23, 285);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(78, 22);
+            this.label5.Size = new System.Drawing.Size(84, 24);
             this.label5.TabIndex = 45;
             this.label5.Text = "Địa chỉ :";
             // 
@@ -243,7 +278,7 @@
             this.txt_diachi.Location = new System.Drawing.Point(196, 278);
             this.txt_diachi.Margin = new System.Windows.Forms.Padding(4);
             this.txt_diachi.Name = "txt_diachi";
-            this.txt_diachi.Size = new System.Drawing.Size(575, 29);
+            this.txt_diachi.Size = new System.Drawing.Size(575, 31);
             this.txt_diachi.TabIndex = 50;
             // 
             // label6
@@ -253,7 +288,7 @@
             this.label6.Location = new System.Drawing.Point(23, 340);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(156, 22);
+            this.label6.Size = new System.Drawing.Size(172, 24);
             this.label6.TabIndex = 58;
             this.label6.Text = "Tìm KH theo mã :";
             // 
@@ -263,43 +298,8 @@
             this.txt_tk.Location = new System.Drawing.Point(196, 337);
             this.txt_tk.Margin = new System.Windows.Forms.Padding(4);
             this.txt_tk.Name = "txt_tk";
-            this.txt_tk.Size = new System.Drawing.Size(575, 29);
+            this.txt_tk.Size = new System.Drawing.Size(575, 31);
             this.txt_tk.TabIndex = 59;
-            // 
-            // makh
-            // 
-            this.makh.DataPropertyName = "MaKhachHang";
-            this.makh.HeaderText = "MaKhachHang";
-            this.makh.MinimumWidth = 6;
-            this.makh.Name = "makh";
-            // 
-            // tenkh
-            // 
-            this.tenkh.DataPropertyName = "TenKhachHang";
-            this.tenkh.HeaderText = "TenKhachHang";
-            this.tenkh.MinimumWidth = 6;
-            this.tenkh.Name = "tenkh";
-            // 
-            // sdt
-            // 
-            this.sdt.DataPropertyName = "SoDienThoai";
-            this.sdt.HeaderText = "SoDienThoai";
-            this.sdt.MinimumWidth = 6;
-            this.sdt.Name = "sdt";
-            // 
-            // email
-            // 
-            this.email.DataPropertyName = "Email";
-            this.email.HeaderText = "Email";
-            this.email.MinimumWidth = 6;
-            this.email.Name = "email";
-            // 
-            // diachi
-            // 
-            this.diachi.DataPropertyName = "DiaChi";
-            this.diachi.HeaderText = "DiaChi";
-            this.diachi.MinimumWidth = 6;
-            this.diachi.Name = "diachi";
             // 
             // FrmKhachhang
             // 
@@ -327,6 +327,7 @@
             this.Controls.Add(this.label1);
             this.Name = "FrmKhachhang";
             this.Text = "FrmKhachhang";
+            this.Load += new System.EventHandler(this.FrmKhachhang_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
