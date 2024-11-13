@@ -12,23 +12,47 @@ namespace DotNetN2_MiniSup
 {
     public partial class FrmTimKiemSP_DM : Form
     {
-        private TimKiemSP_DM timKiemSP_DM;
+        private TimKiemSP timKiemSanPham;
         public FrmTimKiemSP_DM()
         {
             InitializeComponent();
-            timKiemSP_DM = new TimKiemSP_DM();
+            timKiemSanPham = new TimKiemSP();
         }
         private void LoadDanhMuc()
         {
-            DataTable dtDanhMuc = timKiemSP_DM.LayDanhMuc();
+            DataTable dtDanhMuc = timKiemSanPham.LayDanhMuc();
             cmbDanhMuc.DisplayMember = "TenDanhMuc";
             cmbDanhMuc.ValueMember = "MaDanhMuc";
             cmbDanhMuc.DataSource = dtDanhMuc;
         }
 
+        private void UpdateControlsState()
+        {
+            string selectedOption = cbx_chonKhoaTimKiem.SelectedItem?.ToString();
+
+            if (selectedOption == "Danh Mục")
+            {
+                // Nếu chọn "Danh Mục" thì disable TextBox và enable ComboBox
+                txb_thongTinTimKiem.Enabled = false;
+                cmbDanhMuc.Enabled = true;
+            }
+            else
+            {
+                // Nếu chọn các mục khác thì disable ComboBox và enable TextBox
+                txb_thongTinTimKiem.Enabled = true;
+                cmbDanhMuc.Enabled = false;
+            }
+        }
         private void FrmTimKiemSP_DM_Load(object sender, EventArgs e)
         {
-            LoadDanhMuc();
+            cbx_chonKhoaTimKiem.Items.Add("Mã Sản Phẩm");
+            cbx_chonKhoaTimKiem.Items.Add("Tên Sản Phẩm");
+            cbx_chonKhoaTimKiem.Items.Add("Danh Mục");
+            cbx_chonKhoaTimKiem.Items.Add("Hạn Sử Dụng dưới 7 ngày");
+            cbx_chonKhoaTimKiem.Items.Add("Hạn Sử Dụng đã quá hạn");
+            cbx_chonKhoaTimKiem.SelectedIndex = 0;
+            
+            UpdateControlsState();
         }
 
         private void cmbDanhMuc_SelectedIndexChanged(object sender, EventArgs e)
@@ -38,9 +62,50 @@ namespace DotNetN2_MiniSup
         }
         private void LoadSanPhamTheoDanhMuc(string maDanhMuc)
         {
-            // Lấy sản phẩm theo danh mục từ TimKiem và hiển thị trong DataGridView
-            DataTable dtSanPham = timKiemSP_DM.LaySanPhamTheoDanhMuc(maDanhMuc);
-            dgv_sanPham.DataSource = dtSanPham;
+            DataTable dtSanPham = timKiemSanPham.LaySanPhamTheoDanhMuc(maDanhMuc);
+            dgv_dsSanPham.DataSource = dtSanPham;
+        }
+
+        private void btn_timkiem_Click(object sender, EventArgs e)
+        {
+            string tieuChi = cbx_chonKhoaTimKiem.SelectedItem?.ToString();
+            string giaTri = txb_thongTinTimKiem.Text.Trim();
+
+            DateTime today = DateTime.Today;
+            DateTime sevenDaysLater = today.AddDays(7);
+
+            if (tieuChi == "Mã Sản Phẩm" && !string.IsNullOrEmpty(giaTri))
+            {
+                timKiemSanPham.TimKiemTheoMasp(giaTri, dgv_dsSanPham);  
+            }
+            else if (tieuChi == "Tên Sản Phẩm" && !string.IsNullOrEmpty(giaTri))
+            {
+                timKiemSanPham.TimKiemTheoTen(giaTri, dgv_dsSanPham);
+            }
+            else if (tieuChi == "Danh Mục" && cmbDanhMuc.SelectedValue != null)
+            {
+                string maDanhMuc = cmbDanhMuc.SelectedValue.ToString();
+                timKiemSanPham.LaySanPhamTheoDanhMuc(maDanhMuc);
+                LoadDanhMuc();
+            }
+            else if (tieuChi == "Hạn Sử Dụng dưới 7 ngày")
+            {
+                timKiemSanPham.TimKiemTheoHanSuDung(sapHetHan: true, ngayKeTiep: sevenDaysLater, dgv_dsSanPham);
+                
+            }
+            else if (tieuChi == "Hạn Sử Dụng đã quá hạn")
+            {
+                timKiemSanPham.TimKiemTheoHanSuDung(sapHetHan: false, ngayKeTiep: today, dgv_dsSanPham);
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng nhập thông tin tìm kiếm hợp lệ!");
+            }
+        }
+
+        private void cbx_chonKhoaTimKiem_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            UpdateControlsState();
         }
     }
 }

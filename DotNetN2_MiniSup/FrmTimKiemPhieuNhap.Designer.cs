@@ -38,9 +38,9 @@
             this.cbx_chonKhoaTimKiem = new System.Windows.Forms.ComboBox();
             this.lb_chonKhoaTimKiem = new System.Windows.Forms.Label();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.dpk_ngayLapHDsau = new System.Windows.Forms.DateTimePicker();
+            this.dpk_ngayNhapSau = new System.Windows.Forms.DateTimePicker();
             this.label2 = new System.Windows.Forms.Label();
-            this.dpk_ngayLapHDtruoc = new System.Windows.Forms.DateTimePicker();
+            this.dpk_ngayNhapTruoc = new System.Windows.Forms.DateTimePicker();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_dsHoaDon)).BeginInit();
@@ -137,6 +137,7 @@
             this.cbx_chonKhoaTimKiem.Name = "cbx_chonKhoaTimKiem";
             this.cbx_chonKhoaTimKiem.Size = new System.Drawing.Size(359, 30);
             this.cbx_chonKhoaTimKiem.TabIndex = 49;
+            this.cbx_chonKhoaTimKiem.SelectedIndexChanged += new System.EventHandler(this.cbx_chonKhoaTimKiem_SelectedIndexChanged);
             // 
             // lb_chonKhoaTimKiem
             // 
@@ -150,14 +151,14 @@
             this.lb_chonKhoaTimKiem.TabIndex = 48;
             this.lb_chonKhoaTimKiem.Text = "Chọn khóa tìm kiếm";
             // 
-            // dpk_ngayLapHDsau
+            // dpk_ngayNhapSau
             // 
-            this.dpk_ngayLapHDsau.CustomFormat = "dd/MM/yyyy";
-            this.dpk_ngayLapHDsau.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dpk_ngayLapHDsau.Location = new System.Drawing.Point(539, 179);
-            this.dpk_ngayLapHDsau.Name = "dpk_ngayLapHDsau";
-            this.dpk_ngayLapHDsau.Size = new System.Drawing.Size(179, 30);
-            this.dpk_ngayLapHDsau.TabIndex = 59;
+            this.dpk_ngayNhapSau.CustomFormat = "dd/MM/yyyy";
+            this.dpk_ngayNhapSau.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dpk_ngayNhapSau.Location = new System.Drawing.Point(539, 179);
+            this.dpk_ngayNhapSau.Name = "dpk_ngayNhapSau";
+            this.dpk_ngayNhapSau.Size = new System.Drawing.Size(179, 30);
+            this.dpk_ngayNhapSau.TabIndex = 59;
             // 
             // label2
             // 
@@ -171,14 +172,14 @@
             this.label2.TabIndex = 58;
             this.label2.Text = "đến";
             // 
-            // dpk_ngayLapHDtruoc
+            // dpk_ngayNhapTruoc
             // 
-            this.dpk_ngayLapHDtruoc.CustomFormat = "dd/MM/yyyy";
-            this.dpk_ngayLapHDtruoc.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dpk_ngayLapHDtruoc.Location = new System.Drawing.Point(255, 179);
-            this.dpk_ngayLapHDtruoc.Name = "dpk_ngayLapHDtruoc";
-            this.dpk_ngayLapHDtruoc.Size = new System.Drawing.Size(179, 30);
-            this.dpk_ngayLapHDtruoc.TabIndex = 57;
+            this.dpk_ngayNhapTruoc.CustomFormat = "dd/MM/yyyy";
+            this.dpk_ngayNhapTruoc.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dpk_ngayNhapTruoc.Location = new System.Drawing.Point(255, 179);
+            this.dpk_ngayNhapTruoc.Name = "dpk_ngayNhapTruoc";
+            this.dpk_ngayNhapTruoc.Size = new System.Drawing.Size(179, 30);
+            this.dpk_ngayNhapTruoc.TabIndex = 57;
             // 
             // label1
             // 
@@ -205,14 +206,15 @@
             this.Controls.Add(this.lb_timKiem);
             this.Controls.Add(this.cbx_chonKhoaTimKiem);
             this.Controls.Add(this.lb_chonKhoaTimKiem);
-            this.Controls.Add(this.dpk_ngayLapHDsau);
+            this.Controls.Add(this.dpk_ngayNhapSau);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.dpk_ngayLapHDtruoc);
+            this.Controls.Add(this.dpk_ngayNhapTruoc);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FrmTimKiemPhieuNhap";
             this.Text = "FrmTimKiemPhieuNhap";
+            this.Load += new System.EventHandler(this.FrmTimKiemPhieuNhap_Load);
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_dsHoaDon)).EndInit();
             this.ResumeLayout(false);
@@ -232,9 +234,9 @@
         private System.Windows.Forms.ComboBox cbx_chonKhoaTimKiem;
         private System.Windows.Forms.Label lb_chonKhoaTimKiem;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
-        private System.Windows.Forms.DateTimePicker dpk_ngayLapHDsau;
+        private System.Windows.Forms.DateTimePicker dpk_ngayNhapSau;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.DateTimePicker dpk_ngayLapHDtruoc;
+        private System.Windows.Forms.DateTimePicker dpk_ngayNhapTruoc;
         private System.Windows.Forms.Label label1;
     }
 }

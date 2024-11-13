@@ -43,6 +43,7 @@
             this.tìmKiếmKháchHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tìmKiếmSảnPhẩmTheoDanhMụcToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tìmKiếmHóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tìmKiếmPhiếuNhậpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -144,7 +145,8 @@
             this.tìmKiếmToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tìmKiếmKháchHàngToolStripMenuItem,
             this.tìmKiếmSảnPhẩmTheoDanhMụcToolStripMenuItem,
-            this.tìmKiếmHóaĐơnToolStripMenuItem});
+            this.tìmKiếmHóaĐơnToolStripMenuItem,
+            this.tìmKiếmPhiếuNhậpToolStripMenuItem});
             this.tìmKiếmToolStripMenuItem.Name = "tìmKiếmToolStripMenuItem";
             this.tìmKiếmToolStripMenuItem.Size = new System.Drawing.Size(125, 29);
             this.tìmKiếmToolStripMenuItem.Text = "Tìm Kiếm";
@@ -169,6 +171,13 @@
             this.tìmKiếmHóaĐơnToolStripMenuItem.Size = new System.Drawing.Size(450, 30);
             this.tìmKiếmHóaĐơnToolStripMenuItem.Text = "Tìm kiếm hóa đơn";
             this.tìmKiếmHóaĐơnToolStripMenuItem.Click += new System.EventHandler(this.tìmKiếmHóaĐơnToolStripMenuItem_Click);
+            // 
+            // tìmKiếmPhiếuNhậpToolStripMenuItem
+            // 
+            this.tìmKiếmPhiếuNhậpToolStripMenuItem.Name = "tìmKiếmPhiếuNhậpToolStripMenuItem";
+            this.tìmKiếmPhiếuNhậpToolStripMenuItem.Size = new System.Drawing.Size(450, 30);
+            this.tìmKiếmPhiếuNhậpToolStripMenuItem.Text = "Tìm kiếm phiếu nhập";
+            this.tìmKiếmPhiếuNhậpToolStripMenuItem.Click += new System.EventHandler(this.tìmKiếmPhiếuNhậpToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -204,6 +213,7 @@
         private System.Windows.Forms.ToolStripMenuItem tìmKiếmKháchHàngToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tìmKiếmSảnPhẩmTheoDanhMụcToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tìmKiếmHóaĐơnToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tìmKiếmPhiếuNhậpToolStripMenuItem;
     }
 }
 

@@ -134,7 +134,7 @@
     <Compile Include="TimKiemHoaDon.cs" />
     <Compile Include="TimKiemKhachHang.cs" />
     <Compile Include="TimKiemPhieuNhap.cs" />
-    <Compile Include="TimKiemSP_DM.cs" />
+    <Compile Include="TimKiemSP.cs" />
     <Compile Include="Voucher.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

@@ -21,12 +21,42 @@ namespace DotNetN2_MiniSup
 
         private void btn_timkiem_Click(object sender, EventArgs e)
         {
-            string tieuChi = cbx_chonKhoaTimKiem.SelectedItem.ToString();
-            string giaTri = txb_thongTinTimKiem.Text;
-            DateTime? ngayLapHoaDontruoc = dpk_ngayLapHDtruoc.Enabled ? (DateTime?)dpk_ngayLapHDtruoc.Value : null;
-            DateTime? ngayLapHoaDonsau = dpk_ngayLapHDsau.Enabled ? (DateTime?)dpk_ngayLapHDsau.Value : null;
+            string tieuChi = cbx_chonKhoaTimKiem.SelectedItem?.ToString();
+            string giaTri = txb_thongTinTimKiem.Text.Trim();
 
-            timKiemHoaDon.TimKiemHoaDonTheoTieuChi(tieuChi, giaTri, ngayLapHoaDontruoc, ngayLapHoaDonsau, dgv_dsHoaDon);
+            DateTime? ngayLapHoaDontruoc = null;
+            DateTime? ngayLapHoaDonsau = null;
+
+            if (dpk_ngayLapHDtruoc.Visible && dpk_ngayLapHDsau.Visible)
+            {
+                ngayLapHoaDontruoc = dpk_ngayLapHDtruoc.Value;
+                ngayLapHoaDonsau = dpk_ngayLapHDsau.Value;
+            }
+
+            if (tieuChi == "Ngày Lập Hóa Đơn")
+            {
+                if (!ngayLapHoaDontruoc.HasValue || !ngayLapHoaDonsau.HasValue)
+                {
+                    MessageBox.Show("Vui lòng chọn cả hai ngày để tìm kiếm.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                if (ngayLapHoaDontruoc > ngayLapHoaDonsau)
+                {
+                    MessageBox.Show("Ngày bắt đầu không thể lớn hơn ngày kết thúc.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                timKiemHoaDon.TimKiemHoaDonTheoTieuChi_Ngay(ngayLapHoaDontruoc, ngayLapHoaDonsau, dgv_dsHoaDon);
+            }
+            else if (!string.IsNullOrEmpty(tieuChi) && !string.IsNullOrEmpty(giaTri))
+            {
+                timKiemHoaDon.TimKiemHoaDonTheoTieuChi_TextBox(tieuChi, giaTri, dgv_dsHoaDon);
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng nhập thông tin tìm kiếm hợp lệ!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
 

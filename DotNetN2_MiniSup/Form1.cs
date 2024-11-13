@@ -80,5 +80,11 @@ namespace DotNetN2_MiniSup
             FrmHoaDon hoaDon = new FrmHoaDon();
             hoaDon.Show();
         }
+
+        private void tìmKiếmPhiếuNhậpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmTimKiemPhieuNhap frmTimKiemPhieuNhap = new FrmTimKiemPhieuNhap();
+            frmTimKiemPhieuNhap.Show();
+        }
     }
 }

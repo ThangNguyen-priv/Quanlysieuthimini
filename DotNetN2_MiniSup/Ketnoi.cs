@@ -17,7 +17,7 @@ namespace DotNetN2_MiniSup
         public void openConnection()
         {
             //Chưa sửa
-            string ckn = @"Server=ThangNguyn;Database= QuanLyBanHang ;Integrated Security = True";
+            string ckn = @"Server=DESKTOP-70UH8BO;Database= QuanLyBanHang ;Integrated Security = True";
             conn = new SqlConnection(ckn);
             conn.Open();
         }

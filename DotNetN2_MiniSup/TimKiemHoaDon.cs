@@ -11,9 +11,9 @@ namespace DotNetN2_MiniSup
 {
     internal class TimKiemHoaDon
     {
-        private Ketnoi ketnoi = new Ketnoi(); 
+        private Ketnoi ketnoi = new Ketnoi();
 
-        public void TimKiemHoaDonTheoTieuChi(string tieuChi, string giaTri, DateTime? ngayLapHoaDontruoc, DateTime? ngayLapHoaDonsau, DataGridView dataGridView)
+        public void TimKiemHoaDonTheoTieuChi_TextBox(string tieuChi, string giaTri, DataGridView dataGridView)
         {
             string sql = @"
                 SELECT 
@@ -53,20 +53,42 @@ namespace DotNetN2_MiniSup
                         sql += " AND HoaDon.MaKhachHang = @MaKhachHang";
                         sqlParameters.Add(new SqlParameter("@MaKhachHang", giaTri));
                         break;
-                    case "Ngày Lập Hóa Đơn":
-                        if (ngayLapHoaDontruoc.HasValue && ngayLapHoaDonsau.HasValue)
-                        {
-                            sql += " AND HoaDon.NgayLap BETWEEN @FromDate AND @ToDate";
-
-                            sqlParameters.Add(new SqlParameter("@FromDate", ngayLapHoaDontruoc.Value.ToString("yyyy-MM-dd")));
-                            sqlParameters.Add(new SqlParameter("@ToDate", ngayLapHoaDonsau.Value.ToString("yyyy-MM-dd")));
-                        }
-                        break;
                 }
             }
+
             DataTable dt = ketnoi.SearchData(sql, sqlParameters.ToArray());
             dataGridView.DataSource = dt;
         }
+        public void TimKiemHoaDonTheoTieuChi_Ngay(DateTime? ngayLapHoaDontruoc, DateTime? ngayLapHoaDonsau, DataGridView dataGridView)
+        {
+            string sql = @"
+                SELECT 
+                    HoaDon.MaHoaDon,
+                    SanPham.TenSanPham,
+                    ChiTietHoaDon.SoLuong,
+                    HoaDon.NgayLap,
+                    HoaDon.MaKhachHang,
+                    HoaDon.TongTien
+                FROM 
+                    HoaDon
+                INNER JOIN 
+                    ChiTietHoaDon ON HoaDon.MaHoaDon = ChiTietHoaDon.MaHoaDon
+                INNER JOIN 
+                    SanPham ON ChiTietHoaDon.MaSanPham = SanPham.MaSanPham
+                WHERE 1 = 1";
 
+            List<SqlParameter> sqlParameters = new List<SqlParameter>();
+
+            // Thêm điều kiện tìm kiếm theo ngày
+            if (ngayLapHoaDontruoc.HasValue && ngayLapHoaDonsau.HasValue)
+            {
+                sql += " AND HoaDon.NgayLap BETWEEN @FromDate AND @ToDate";
+                sqlParameters.Add(new SqlParameter("@FromDate", ngayLapHoaDontruoc.Value.ToString("yyyy-MM-dd")));
+                sqlParameters.Add(new SqlParameter("@ToDate", ngayLapHoaDonsau.Value.ToString("yyyy-MM-dd")));
+            }
+
+            DataTable dt = ketnoi.SearchData(sql, sqlParameters.ToArray());
+            dataGridView.DataSource = dt;
+        }
     }
 }
