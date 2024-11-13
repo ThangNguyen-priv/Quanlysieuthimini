@@ -60,65 +60,6 @@ namespace DotNetN2_MiniSup
             }
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dgv_dsHoaDon_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void lb_tieuDe_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn_thoat_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txb_thongTinTimKiem_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lb_timKiem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lb_chonKhoaTimKiem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dpk_ngayLapHDtruoc_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dpk_ngayLapHDsau_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
     }
    
 }

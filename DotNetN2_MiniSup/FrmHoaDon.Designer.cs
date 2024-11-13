@@ -60,6 +60,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.dgv_hd = new System.Windows.Forms.DataGridView();
+            this.btn_xuatEx = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_cthd)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_hd)).BeginInit();
@@ -85,6 +86,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btn_xuatEx);
             this.groupBox1.Controls.Add(this.btn_hienthicthd);
             this.groupBox1.Controls.Add(this.btn_hienthihd);
             this.groupBox1.Controls.Add(this.btn_suacthd);
@@ -475,6 +477,20 @@
             this.dgv_hd.TabIndex = 122;
             this.dgv_hd.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_hd_CellClick);
             // 
+            // btn_xuatEx
+            // 
+            this.btn_xuatEx.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_xuatEx.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_xuatEx.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_xuatEx.Location = new System.Drawing.Point(26, 282);
+            this.btn_xuatEx.Margin = new System.Windows.Forms.Padding(4);
+            this.btn_xuatEx.Name = "btn_xuatEx";
+            this.btn_xuatEx.Size = new System.Drawing.Size(141, 38);
+            this.btn_xuatEx.TabIndex = 139;
+            this.btn_xuatEx.Text = "Xuất Excel";
+            this.btn_xuatEx.UseVisualStyleBackColor = false;
+            this.btn_xuatEx.Click += new System.EventHandler(this.btn_xuatEx_Click);
+            // 
             // FrmHoaDon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -527,5 +543,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.DataGridView dgv_hd;
+        private System.Windows.Forms.Button btn_xuatEx;
     }
 }

@@ -56,7 +56,6 @@
             this.groupBox1.TabIndex = 43;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Danh sách Khách hàng";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // dgv_dsHoaDon
             // 
@@ -71,7 +70,6 @@
             this.dgv_dsHoaDon.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgv_dsHoaDon.Size = new System.Drawing.Size(839, 276);
             this.dgv_dsHoaDon.TabIndex = 36;
-            this.dgv_dsHoaDon.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_dsHoaDon_CellContentClick);
             // 
             // lb_tieuDe
             // 
@@ -83,7 +81,6 @@
             this.lb_tieuDe.Size = new System.Drawing.Size(264, 39);
             this.lb_tieuDe.TabIndex = 42;
             this.lb_tieuDe.Text = "Thông tin hóa đơn";
-            this.lb_tieuDe.Click += new System.EventHandler(this.lb_tieuDe_Click);
             // 
             // btn_thoat
             // 
@@ -96,7 +93,6 @@
             this.btn_thoat.TabIndex = 41;
             this.btn_thoat.Text = "Thoát";
             this.btn_thoat.UseVisualStyleBackColor = true;
-            this.btn_thoat.Click += new System.EventHandler(this.btn_thoat_Click);
             // 
             // btn_timkiem
             // 
@@ -119,7 +115,6 @@
             this.txb_thongTinTimKiem.Name = "txb_thongTinTimKiem";
             this.txb_thongTinTimKiem.Size = new System.Drawing.Size(359, 30);
             this.txb_thongTinTimKiem.TabIndex = 39;
-            this.txb_thongTinTimKiem.TextChanged += new System.EventHandler(this.txb_thongTinTimKiem_TextChanged);
             // 
             // lb_timKiem
             // 
@@ -132,7 +127,6 @@
             this.lb_timKiem.Size = new System.Drawing.Size(104, 22);
             this.lb_timKiem.TabIndex = 38;
             this.lb_timKiem.Text = "Mã hóa đơn";
-            this.lb_timKiem.Click += new System.EventHandler(this.lb_timKiem_Click);
             // 
             // cbx_chonKhoaTimKiem
             // 
@@ -156,11 +150,9 @@
             this.lb_chonKhoaTimKiem.Size = new System.Drawing.Size(166, 22);
             this.lb_chonKhoaTimKiem.TabIndex = 36;
             this.lb_chonKhoaTimKiem.Text = "Chọn khóa tìm kiếm";
-            this.lb_chonKhoaTimKiem.Click += new System.EventHandler(this.lb_chonKhoaTimKiem_Click);
             // 
             // backgroundWorker1
             // 
-            this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker1_DoWork);
             // 
             // label1
             // 
@@ -173,7 +165,6 @@
             this.label1.Size = new System.Drawing.Size(154, 22);
             this.label1.TabIndex = 44;
             this.label1.Text = "Ngày lập Hóa đơn";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // dpk_ngayLapHDtruoc
             // 
@@ -183,7 +174,6 @@
             this.dpk_ngayLapHDtruoc.Name = "dpk_ngayLapHDtruoc";
             this.dpk_ngayLapHDtruoc.Size = new System.Drawing.Size(179, 30);
             this.dpk_ngayLapHDtruoc.TabIndex = 45;
-            this.dpk_ngayLapHDtruoc.ValueChanged += new System.EventHandler(this.dpk_ngayLapHDtruoc_ValueChanged);
             // 
             // label2
             // 
@@ -196,7 +186,6 @@
             this.label2.Size = new System.Drawing.Size(38, 22);
             this.label2.TabIndex = 46;
             this.label2.Text = "đến";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // dpk_ngayLapHDsau
             // 
@@ -206,7 +195,6 @@
             this.dpk_ngayLapHDsau.Name = "dpk_ngayLapHDsau";
             this.dpk_ngayLapHDsau.Size = new System.Drawing.Size(179, 30);
             this.dpk_ngayLapHDsau.TabIndex = 47;
-            this.dpk_ngayLapHDsau.ValueChanged += new System.EventHandler(this.dpk_ngayLapHDsau_ValueChanged);
             // 
             // FrmTimKiemHoaDon
             // 

@@ -88,3 +88,5 @@ D:\code app\github\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup
 D:\code app\github\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.exe.config
 D:\code app\github\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.exe
 D:\code app\github\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.pdb
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmHoaDon.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemPhieuNhap.resources

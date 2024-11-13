@@ -64,6 +64,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.cbx_mancc = new System.Windows.Forms.ComboBox();
             this.dgv_ctpn = new System.Windows.Forms.DataGridView();
+            this.btn_xuatEx = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_pn)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_ctpn)).BeginInit();
@@ -257,6 +258,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btn_xuatEx);
             this.groupBox1.Controls.Add(this.btn_hienthictpn);
             this.groupBox1.Controls.Add(this.btn_hienthipn);
             this.groupBox1.Controls.Add(this.btn_suactpn);
@@ -515,6 +517,20 @@
             this.dgv_ctpn.TabIndex = 121;
             this.dgv_ctpn.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_ctpn_CellClick);
             // 
+            // btn_xuatEx
+            // 
+            this.btn_xuatEx.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_xuatEx.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_xuatEx.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_xuatEx.Location = new System.Drawing.Point(18, 282);
+            this.btn_xuatEx.Margin = new System.Windows.Forms.Padding(4);
+            this.btn_xuatEx.Name = "btn_xuatEx";
+            this.btn_xuatEx.Size = new System.Drawing.Size(141, 38);
+            this.btn_xuatEx.TabIndex = 140;
+            this.btn_xuatEx.Text = "Xuất Excel";
+            this.btn_xuatEx.UseVisualStyleBackColor = false;
+            this.btn_xuatEx.Click += new System.EventHandler(this.btn_xuatEx_Click);
+            // 
             // FrmPhieuNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -573,5 +589,6 @@
         private System.Windows.Forms.Button btn_themctpn;
         private System.Windows.Forms.Button btn_hienthipn;
         private System.Windows.Forms.Button btn_hienthictpn;
+        private System.Windows.Forms.Button btn_xuatEx;
     }
 }

@@ -8,6 +8,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Excel = Microsoft.Office.Interop.Excel;
 
 namespace DotNetN2_MiniSup
 {
@@ -288,6 +289,43 @@ namespace DotNetN2_MiniSup
                     MessageBox.Show("Xóa dữ liệu thành công !!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
+        }
+        // xuat Excel nee-----------------------------------------------------------------
+        private void ExportToExcel(DataGridView dataGridView)
+        {
+            try
+            {
+                // Tạo đối tượng Excel nè
+                Excel.Application excelApp = new Excel.Application();
+                excelApp.Application.Workbooks.Add(Type.Missing);
+                excelApp.Visible = true;
+
+                // lấy tiêu đề
+                for (int i = 1; i < dataGridView.Columns.Count + 1; i++)
+                {
+                    excelApp.Cells[1, i] = dataGridView.Columns[i - 1].HeaderText;
+                }
+
+                // Xuất dữ liệu từ Dd=gv sang Excel
+                for (int i = 0; i < dataGridView.Rows.Count; i++)
+                {
+                    for (int j = 0; j < dataGridView.Columns.Count; j++)
+                    {
+                        excelApp.Cells[i + 2, j + 1] = dataGridView.Rows[i].Cells[j].Value?.ToString();
+                    }
+                }
+
+                excelApp.Columns.AutoFit();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Có lỗi xảy ra: " + ex.Message);
+            }
+        }
+
+        private void btn_xuatEx_Click(object sender, EventArgs e)
+        {
+            ExportToExcel(dgv_hd);
         }
     }
 }
