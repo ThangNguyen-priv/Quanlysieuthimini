@@ -28,20 +28,28 @@ D:\Dotnet_Nhom2\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.exe
 D:\Dotnet_Nhom2\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.pdb
 D:\Dotnet_Nhom2\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmPhieuNhap.resources
 D:\Dotnet_Nhom2\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmSanPham.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.csproj.AssemblyReference.cache
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.Form1.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmDanhmuc.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmKhachhang.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.Frmnhacc.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmPhieuNhap.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmSanPham.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmVoucher.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.Properties.Resources.resources
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.csproj.GenerateResource.cache
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.csproj.CoreCompileInputs.cache
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.exe
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.pdb
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.exe.config
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.exe
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.pdb
-D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmHoaDon.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.exe.config
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.exe
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\bin\Debug\DotNetN2_MiniSup.pdb
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.csproj.AssemblyReference.cache
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.Form1.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmDanhmuc.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmKhachhang.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.Frmnhacc.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmPhieuNhap.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmSanPham.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmVoucher.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.Properties.Resources.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.csproj.GenerateResource.cache
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.csproj.CoreCompileInputs.cache
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.exe
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.pdb
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemKhachHang.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemSP_DM.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemHoaDon.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmHoaDon.resources
+D:\BTL_DotNet\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemPhieuNhap.resources
+D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemHoaDon.resources
+D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemKhachHang.resources
+D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemPhieuNhap.resources
+D:\code app\fork\Quanlysieuthimini\DotNetN2_MiniSup\obj\Debug\DotNetN2_MiniSup.FrmTimKiemSP_DM.resources

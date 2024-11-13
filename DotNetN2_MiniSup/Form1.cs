@@ -57,11 +57,5 @@ namespace DotNetN2_MiniSup
             FrmSanPham frmSanPham = new FrmSanPham();
             frmSanPham.Show();
         }
-
-        private void hóaĐơnToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            FrmHoaDon hoaDon = new FrmHoaDon();
-            hoaDon.Show();
-        }
     }
 }
