@@ -38,7 +38,6 @@
             this.quảnLíToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kháchHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.chiTiếtHóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.chươngTrìnhKhuyếnMãiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tìmKiếmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tìmKiếmKháchHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -128,17 +127,10 @@
             // 
             // hóaĐơnToolStripMenuItem
             // 
-            this.hóaĐơnToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.chiTiếtHóaĐơnToolStripMenuItem});
             this.hóaĐơnToolStripMenuItem.Name = "hóaĐơnToolStripMenuItem";
             this.hóaĐơnToolStripMenuItem.Size = new System.Drawing.Size(113, 29);
             this.hóaĐơnToolStripMenuItem.Text = "Hóa đơn";
-            // 
-            // chiTiếtHóaĐơnToolStripMenuItem
-            // 
-            this.chiTiếtHóaĐơnToolStripMenuItem.Name = "chiTiếtHóaĐơnToolStripMenuItem";
-            this.chiTiếtHóaĐơnToolStripMenuItem.Size = new System.Drawing.Size(259, 30);
-            this.chiTiếtHóaĐơnToolStripMenuItem.Text = "Chi tiết hóa đơn";
+            this.hóaĐơnToolStripMenuItem.Click += new System.EventHandler(this.hóaĐơnToolStripMenuItem_Click);
             // 
             // chươngTrìnhKhuyếnMãiToolStripMenuItem
             // 
@@ -202,7 +194,6 @@
         private System.Windows.Forms.ToolStripMenuItem quảnLíToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem kháchHàngToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem hóaĐơnToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem chiTiếtHóaĐơnToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem chươngTrìnhKhuyếnMãiToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem danhMụcToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sảnPhẩmToolStripMenuItem1;

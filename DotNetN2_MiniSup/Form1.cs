@@ -75,5 +75,10 @@ namespace DotNetN2_MiniSup
             FrmTimKiemHoaDon frmTimKiemHoaDon = new FrmTimKiemHoaDon();
             frmTimKiemHoaDon.Show();
         }
+        private void hóaĐơnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmHoaDon hoaDon = new FrmHoaDon();
+            hoaDon.Show();
+        }
     }
 }

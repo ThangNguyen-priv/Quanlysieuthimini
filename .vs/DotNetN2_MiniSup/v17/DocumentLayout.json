@@ -1,121 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BTL_DotNet\\Quanlysieuthimini\\",
+  "WorkspaceRootPath": "D:\\code app\\github\\Quanlysieuthimini\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\code app\\github\\quanlysieuthimini\\dotnetn2_minisup\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\timkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\timkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\timkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\timkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\BTL_DotNet\\Quanlysieuthimini\\dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\BTL_DotNet\\Quanlysieuthimini\\dotnetn2_minisup\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\code app\\github\\quanlysieuthimini\\dotnetn2_minisup\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\code app\\github\\quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\timkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\timkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\timkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\timkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\timkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmtimkiemsp_dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|d:\\btl_dotnet\\quanlysieuthimini\\dotnetn2_minisup\\frmphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\BTL_DotNet\\Quanlysieuthimini\\dotnetn2_minisup\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\BTL_DotNet\\Quanlysieuthimini\\dotnetn2_minisup\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|D:\\code app\\github\\Quanlysieuthimini\\dotnetn2_minisup\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{843063DA-F993-40EC-BE61-94F06DD1630E}|DotNetN2_MiniSup\\DotNetN2_MiniSup.csproj|solutionrelative:dotnetn2_minisup\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -126,375 +134,414 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmTimKiemPhieuNhap.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAnwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:57:20.512Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TimKiemPhieuNhap.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:53:12.132Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmTimKiemPhieuNhap.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs [Design]",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Form1.Designer.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.Designer.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:51:46.526Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmTimKiemHoaDon.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBoAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:08:29.198Z",
+              "WhenOpened": "2024-11-13T08:01:04.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TimKiemHoaDon.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemHoaDon.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemHoaDon.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemHoaDon.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemHoaDon.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwD8AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FrmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmHoaDon.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmHoaDon.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:01:10.804Z",
+              "WhenOpened": "2024-11-13T08:00:34.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ketnoi.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Ketnoi.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Ketnoi.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Ketnoi.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Ketnoi.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PhieuNhap.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\PhieuNhap.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\PhieuNhap.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\PhieuNhap.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\PhieuNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Danhmuc.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Danhmuc.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Danhmuc.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Danhmuc.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Danhmuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:44:18.325Z",
+              "WhenOpened": "2024-11-13T08:00:25.567Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Form1.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.551Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FrmTimKiemHoaDon.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
               "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs [Design]",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs [Design]",
               "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:03:35.949Z",
+              "WhenOpened": "2024-11-13T08:00:25.539Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmTimKiemKhachHang.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:19:55.577Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ketnoi.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Ketnoi.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Ketnoi.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Ketnoi.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Ketnoi.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:35:22.33Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FrmTimKiemKhachHang.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvy8AAABEAAAAAAAAAA==",
+              "Title": "FrmTimKiemPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:25:25.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T08:00:25.522Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmTimKiemHoaDon.Designer.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAADgv7oAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Form1.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:23:54.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TimKiemKhachHang.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemKhachHang.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemKhachHang.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemKhachHang.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemKhachHang.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:30:02.459Z",
+              "WhenOpened": "2024-11-13T08:00:25.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\SanPham.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\SanPham.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\SanPham.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\SanPham.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAWwD8AAAAaAAAAAAAAAA==",
+              "Title": "TimKiemHoaDon.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemHoaDon.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemHoaDon.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemHoaDon.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemHoaDon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwD8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:37:38.04Z",
+              "WhenOpened": "2024-11-13T08:00:25.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmTimKiemSP_DM.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "FrmTimKiemHoaDon.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBoAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:26:18.843Z",
+              "WhenOpened": "2024-11-13T08:00:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimKiemPhieuNhap.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemPhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmTimKiemPhieuNhap.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemPhieuNhap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\PhieuNhap.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\PhieuNhap.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\PhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmTimKiemKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.541Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Form1.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Form1.cs [Design]",
+              "Title": "FrmTimKiemKhachHang.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemKhachHang.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvy8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:40:27.045Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Form1.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Form1.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Form1.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAWwEsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:40:47.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TimKiemSP_DM.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemSP_DM.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemSP_DM.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemSP_DM.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemSP_DM.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:23:11.766Z",
+              "WhenOpened": "2024-11-13T08:00:25.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "FrmTimKiemSP_DM.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAXAAAAAAAAAA==",
+              "Title": "FrmTimKiemHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemHoaDon.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAADgv7oAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:30:47.006Z",
+              "WhenOpened": "2024-11-13T08:00:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimKiemKhachHang.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemKhachHang.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemKhachHang.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemKhachHang.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemKhachHang.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\SanPham.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\SanPham.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\SanPham.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\SanPham.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "FrmKhachhang.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmKhachhang.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmKhachhang.cs [Design]",
+              "Title": "FrmTimKiemSP_DM.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:41:05.809Z",
+              "WhenOpened": "2024-11-13T08:00:25.551Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "FrmKhachhang.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmKhachhang.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmKhachhang.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Title": "TimKiemSP_DM.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemSP_DM.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\TimKiemSP_DM.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\TimKiemSP_DM.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\TimKiemSP_DM.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:44:25.414Z",
+              "WhenOpened": "2024-11-13T08:00:25.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "FrmDanhmuc.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmDanhmuc.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmDanhmuc.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmDanhmuc.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmDanhmuc.cs [Design]",
+              "Title": "FrmTimKiemSP_DM.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmTimKiemSP_DM.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:41:04.707Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-13T08:00:25.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "FrmVoucher.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmVoucher.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmVoucher.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmVoucher.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmVoucher.cs [Design]",
+              "Title": "FrmKhachhang.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmKhachhang.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmKhachhang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:55:03.435Z",
+              "WhenOpened": "2024-11-13T08:00:25.56Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Khachhang.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Khachhang.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Khachhang.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Khachhang.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Khachhang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Title": "FrmKhachhang.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmKhachhang.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmKhachhang.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmKhachhang.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:35:54.015Z",
+              "WhenOpened": "2024-11-13T08:00:25.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Danhmuc.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Danhmuc.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Danhmuc.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Danhmuc.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Danhmuc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Title": "FrmDanhmuc.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmDanhmuc.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmDanhmuc.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmDanhmuc.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmDanhmuc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:29:44.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Nhacc.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Nhacc.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Nhacc.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Nhacc.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Nhacc.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAWwD8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:36:59.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T08:00:25.564Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Voucher.cs",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Voucher.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Voucher.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Voucher.cs",
-              "RelativeToolTip": "DotNetN2_MiniSup\\Voucher.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Title": "FrmVoucher.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmVoucher.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmVoucher.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmVoucher.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmVoucher.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:37:41.666Z",
+              "WhenOpened": "2024-11-13T08:00:25.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Khachhang.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Khachhang.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Khachhang.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Khachhang.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Khachhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "FrmSanPham.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmSanPham.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmSanPham.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmSanPham.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmSanPham.cs [Design]",
+              "Title": "Nhacc.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Nhacc.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Nhacc.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Nhacc.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Nhacc.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwD8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:41:43.929Z"
+              "WhenOpened": "2024-11-13T08:00:25.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "FrmPhieuNhap.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmPhieuNhap.cs",
-              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmPhieuNhap.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmPhieuNhap.cs [Design]",
-              "RelativeToolTip": "DotNetN2_MiniSup\\FrmPhieuNhap.cs [Design]",
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Voucher.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Voucher.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Voucher.cs",
+              "RelativeToolTip": "DotNetN2_MiniSup\\Voucher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:41:37.269Z",
+              "WhenOpened": "2024-11-13T08:00:25.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmSanPham.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmSanPham.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmSanPham.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.573Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "FrmPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmPhieuNhap.cs",
+              "RelativeDocumentMoniker": "DotNetN2_MiniSup\\FrmPhieuNhap.cs",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\FrmPhieuNhap.cs [Design]",
+              "RelativeToolTip": "DotNetN2_MiniSup\\FrmPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:00:25.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Frmnhacc.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Frmnhacc.cs",
+              "DocumentMoniker": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Frmnhacc.cs",
               "RelativeDocumentMoniker": "DotNetN2_MiniSup\\Frmnhacc.cs",
-              "ToolTip": "D:\\BTL_DotNet\\Quanlysieuthimini\\DotNetN2_MiniSup\\Frmnhacc.cs [Design]",
+              "ToolTip": "D:\\code app\\github\\Quanlysieuthimini\\DotNetN2_MiniSup\\Frmnhacc.cs [Design]",
               "RelativeToolTip": "DotNetN2_MiniSup\\Frmnhacc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:41:33.433Z"
+              "WhenOpened": "2024-11-13T08:00:25.576Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
