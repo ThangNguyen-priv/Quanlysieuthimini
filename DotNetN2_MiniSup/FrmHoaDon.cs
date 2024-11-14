@@ -23,6 +23,7 @@ namespace DotNetN2_MiniSup
             LoadKhachHangToComboBox();
             LoadMaHoaDonToComboBox();
             LoadMaSanPhamToComboBox();
+            LoadVoucherToComboBox();
         }
 
         public void cleartxt()
@@ -159,15 +160,30 @@ namespace DotNetN2_MiniSup
 
             cbx_mahd.SelectedIndex = -1; // Không chọn mục nào ban đầu
         }
+        private void LoadVoucherToComboBox()
+        {
+            // Lấy danh sách ma san pham
+            DataTable dtvc = hoadon.GetAllVoucher();
+
+            // Tạo dòng trống
+            DataRow dr = dtvc.NewRow();
+            dr["MaVoucher"] = ""; // Cột chứa mã sản phẩm
+            dtvc.Rows.InsertAt(dr, 0); // Thêm dòng trống vào đầu danh sách
+
+            cbx_voucher.DataSource = dtvc;
+            cbx_voucher.DisplayMember = "MaVoucher"; // Cột hiển thị
+            cbx_voucher.ValueMember = "MaVoucher"; // Giá trị mã sản phẩm
+        }
         private void LoadMaSanPhamToComboBox()
         {
             // Lấy danh sách ma san pham
             DataTable dtsp = hoadon.GetAllMaSanPham();
 
             cbx_msp.DataSource = dtsp;
+            
             cbx_msp.DisplayMember = "MaSanPham"; // Cột hiển thị
             cbx_msp.ValueMember = "MaSanPham"; // Giá trị mã Khach hang
-            cbx_msp.SelectedIndex = -1; // Không chọn mục nào ban đầu
+            cbx_msp.SelectedIndex = cbx_voucher.Items.Count-1; // Không chọn mục nào ban đầu
         }
 
         // cell click-----------------------------------------------------
@@ -236,10 +252,13 @@ namespace DotNetN2_MiniSup
                 hoadon.ThemChiTietHoaDon(macthd, mahd,msp, sl, dg);
                 dgv_cthd.DataSource = null;
                 dgv_cthd.Rows.Clear();
+                hoadon.TongTienHoaDon(macthd, mahd);
                 dgv_cthd.DataSource = hoadon.GetAllChiTietHoaDon();
                 cleartxt();
                 MessageBox.Show("Thêm dữ liệu thành công !!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                
             }
+
         }
 
         private void btn_suacthd_Click(object sender, EventArgs e)
@@ -326,6 +345,30 @@ namespace DotNetN2_MiniSup
         private void btn_xuatEx_Click(object sender, EventArgs e)
         {
             ExportToExcel(dgv_hd);
+        }
+
+        private void cbx_voucher_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string mahd = txt_mhd.Text;
+            string voucher = cbx_voucher.Text;
+            DateTimePicker dateTimePicker = new DateTimePicker();
+            dateTimePicker.Text = hoadon.NgayHetHan(voucher);
+            DateTime homlay = DateTime.Now;
+            if(cbx_voucher.SelectedIndex != 0)
+            {
+                if (dateTimePicker.Value < homlay)
+                {
+                    MessageBox.Show("Voucher này đã hết hạn!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return;
+                }
+                else
+                {
+                    hoadon.TongTienSauVoucher(voucher,mahd);
+                    cleartxt();
+                    dgv_hd.DataSource = null;
+                    dgv_hd.DataSource = hoadon.GetAllHoaDon();
+                }
+            } 
         }
     }
 }

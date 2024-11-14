@@ -15,6 +15,7 @@ namespace DotNetN2_MiniSup
         {
             ketnoi = new Ketnoi();
         }
+
         public DataTable GetAllPhieuNhap()
         {
             string sql = "SELECT * FROM PhieuNhap";
