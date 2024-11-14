@@ -4,6 +4,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace DotNetN2_MiniSup
@@ -23,6 +24,11 @@ namespace DotNetN2_MiniSup
         public DataTable GetAllChiTietHoaDon()
         {
             string sql = "SELECT * FROM ChiTietHoaDon";
+            return ketnoi.ReadData(sql);
+        }
+        public DataTable GetAllVoucher()
+        {
+            string sql = "SELECT MaVoucher FROM Voucher";
             return ketnoi.ReadData(sql);
         }
         public DataTable GetAllMaKhachHang()
@@ -97,6 +103,14 @@ namespace DotNetN2_MiniSup
             return ketnoi.SearchData(sql, sqlParameters);
         }
 
+        public string NgayHetHan(string mavoucher)
+        {
+            string sql = "SELECT NgayHetHan FROM Voucher where MaVoucher = @mavoucher";
+            SqlParameter[] sqlParameters = new SqlParameter[] {
+            new SqlParameter("@mavoucher",mavoucher)};
+            return Convert.ToString(ketnoi.SearchData(sql, sqlParameters));
+        }
+
         // chi tiet hoa don----------------------------------------------------------------
 
         public void ThemChiTietHoaDon(string macthd, string mahd, string msp, string sl, string dg)
@@ -131,6 +145,28 @@ namespace DotNetN2_MiniSup
             string sql = "Delete from ChiTietHoaDon where MaChiTietHoaDon = @macthd";
             SqlParameter[] sqlParameters = new SqlParameter[] {
                 new SqlParameter("@macthd",macthd),
+            };
+            ketnoi.CreateUpdateDelete(sql, sqlParameters);
+        }
+        
+        public void TongTienHoaDon(string macthd, string mahd)
+        {
+            string sql = "UPDATE HoaDon SET TongTien = TongTien + " +
+                         "(Select SoLuong From ChiTietHoaDon Where MaChiTietHoaDon = @macthd) * (Select DonGia From ChiTietHoaDon Where MaChiTietHoaDon = @macthd) Where MaHoaDon = @mahd";
+            SqlParameter[] sqlParameters = new SqlParameter[] {
+                new SqlParameter("@macthd",macthd),
+                new SqlParameter("@mahd",mahd),
+                
+            };
+            ketnoi.CreateUpdateDelete(sql, sqlParameters);
+        }
+        public void TongTienSauVoucher(string mavoucher, string mahd)
+        {
+            string sql = "UPDATE HoaDon SET TongTien = TongTien - " +
+                         "(Select GiaTri From Voucher Where MaVoucher = @mavoucher) Where MaHoaDon = @mahd";
+            SqlParameter[] sqlParameters = new SqlParameter[] {
+                new SqlParameter("@mavoucher",mavoucher),
+                new SqlParameter("@mahd",mahd),
             };
             ketnoi.CreateUpdateDelete(sql, sqlParameters);
         }
